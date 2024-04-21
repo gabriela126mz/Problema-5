@@ -23,7 +23,7 @@ def dividir(a, b):
         return 0
     else:
         return a / b
-
+ 
 
 if __name__ == "__main__":
     print("=====Operaciones=====")
